@@ -1,2 +1,0 @@
-# DMS
-Dairy managment System
